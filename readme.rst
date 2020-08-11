@@ -164,3 +164,17 @@ To check jwt token data:
 
 https://jwt.io/
 
+
+postman link
+#generate token
+http://localhost/create-crud-rest-api-in-codeigniter-step-by-step/Test/LoginToken
+
+
+#access tocken
+http://localhost/create-crud-rest-api-in-codeigniter-step-by-step/Test/GetTokenData
+
+pass token in header
+Tocken: generated token
+
+
+
